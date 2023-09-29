@@ -31,8 +31,130 @@
         </nav>
         <article>
             <h2 style="color: aliceblue;">Dashboard</h2>
-            <div>
-                <table></table>
+            <div class="table-style">
+                <table>
+                    <tr>
+                        <th>#</th>
+                        <th>Header</th>
+                        <th>Header</th>
+                        <th>Header</th>
+                        <th>Header</th>
+                    </tr>
+                    <tr>
+                        <td>123</td>
+                        <td>Lorem</td>
+                        <td>ipsium</td>
+                        <td>Germany</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                    <tr>
+                        <td>23443</td>
+                        <td>Moctezuma</td>
+                        <td>isco Chang</td>
+                        <td>Mexico</td>
+                    </tr>
+                </table> 
             </div>
         </article>
     </section>

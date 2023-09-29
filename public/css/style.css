@@ -14,19 +14,27 @@ body {
     background-color: var(--bg-colour);
 }
 
+.flex {
+    max-height: 100vh;
+    display: flex;
+    /* flex-direction: column; */
+    /* border:  1px solid black; */
+}
 
 nav {
     border: 1px solid black;
     background-color: var(--nav-bg-colour);
-    max-height: 59%;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    border-bottom: none;
+    /* flex-wrap: wrap; */
 }
 
-.flex {
-    height: 100vh;
-    display: flex;
-    /* flex-direction: column; */
-    border:  1px solid black;
-}
+/* nav > div {
+    flex: 1;
+} */
+
 
 .nav-col * {
     padding: .6em;
@@ -48,4 +56,13 @@ nav {
 
 a:hover {
     color: rgba(241, 1, 1, 0.815);
+    background-color: black;
+}
+
+.table-style {
+    margin: 4rem;
+}
+
+table * {
+    padding: 2rem;
 }
