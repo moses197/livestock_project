@@ -6,7 +6,7 @@
 }
 
 :root {
-    --bg-colour : rgb(26, 24, 24);
+    --bg-colour : rgba(47, 88, 40, 0.555);
     --nav-bg-colour: rgba(73, 72, 72, 0.705);
 }
 
@@ -18,7 +18,7 @@ body {
 nav {
     border: 1px solid black;
     background-color: var(--nav-bg-colour);
-    max-height: 58%;
+    max-height: 59%;
 }
 
 .flex {
@@ -35,7 +35,7 @@ nav {
 }
 
 .nav-col *:not(p) {
-    color: rgba(14, 240, 240, 0.774)/*rgba(17, 17, 245, 0.904)*/;
+    color: rgb(7, 235, 235)/*rgba(17, 17, 245, 0.904)*/;
     /* font-size: 1rem; */
     font-weight: 900;
 }
@@ -47,5 +47,5 @@ nav {
 }
 
 a:hover {
-    color: blue;
+    color: rgba(241, 1, 1, 0.815);
 }
