@@ -1,5 +1,9 @@
 @extends('layout')
 
+@section('title')
+    Dashboard page
+@endsection
+
 @section('content')
     <section class="flex">
         <nav>
