@@ -47,7 +47,7 @@
         label: '# of Animals',
         data: [12, 19, 3, 5, 2, 3],
         borderWidth: 0,
-        backgroundColor: 'blue'
+        backgroundColor: 'blue',
       }]
     },
     options: {
@@ -55,7 +55,17 @@
         y: {
           beginAtZero: true
         }
-      }
+      },
+      plugins: {
+            legend: {
+                labels: {
+                    // This more specific font property overrides the global property
+                    font: {
+                        size: 20
+                    }
+                }
+            }
+        }
     }
   });
 </script>
