@@ -17,6 +17,7 @@ body {
 .flex {
     max-height: 100vh;
     display: flex;
+    gap: 5rem;
     /* flex-direction: column; */
     /* border:  1px solid black; */
 }
@@ -59,9 +60,9 @@ a:hover {
     background-color: black;
 }
 
-.table-style {
+/* .table-style {
     margin: 4rem;
-}
+} */
 
 table * {
     padding: 2rem;
