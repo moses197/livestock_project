@@ -42,11 +42,12 @@
   new Chart(ctx, {
     type: 'bar',
     data: {
-      labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+      labels: ['Chicken', 'Turkey', 'Rabbit', 'Lion', 'Rat', 'Monkey'],
       datasets: [{
         label: '# of Animals',
         data: [12, 19, 3, 5, 2, 3],
-        borderWidth: 1
+        borderWidth: 0,
+        backgroundColor: 'blue'
       }]
     },
     options: {
@@ -73,17 +74,20 @@
                         <td>Lorem</td>
                         <td>ipsium</td>
                         <td>Germany</td>
+                        <td>oiuytr</td>
                     </tr>
                     <tr>
                         <td>23443</td>
                         <td>Moctezuma</td>
                         <td>isco Chang</td>
                         <td>Mexico</td>
+                        <td>iuytre</td>
                     </tr>
                     <tr>
                         <td>23443</td>
                         <td>Moctezuma</td>
                         <td>isco Chang</td>
+                        <td>iuydsd</td>
                         <td>Mexico</td>
                     </tr>
                     <tr>
