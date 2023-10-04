@@ -2,7 +2,8 @@
     margin: 0;
     /* padding: 0; */
     box-sizing: border-box;
-    font-family: 'Courier New', Courier, monospace;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family:'Times New Roman', Times, serif;
 }
 
 :root {
@@ -67,3 +68,24 @@ a:hover {
 table * {
     padding: 2rem;
 }
+
+.form-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-class {
+    width: 40%;
+    background-color: rgb(236, 233, 228);
+    /* display: flex; */
+}
+
+.form-class * {
+    padding: .7rem;
+}
+
+/* .div-input {
+    width: 100vw;
+} */
